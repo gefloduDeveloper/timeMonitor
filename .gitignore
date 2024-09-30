@@ -1,0 +1,113 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# User-specific files
+.vscode/
+.vscode/*
+
+# Visual Studio
+.vs/
+.vs/*
+
+# Auto-generated files
+*.g.i.cs
+*.designer.cs
+*_i.c
+*_p.c
+*.gen.cs
+*.generated.cs
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code settings
+.vscode/
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Packages folder
+packages/
+*.nupkg
+*.snupkg
+
+# Uncomment if using NuGet >= 3.5 to exclude package directory
+# **/packages/*
+
+# Test result
+*.trx
+*.coverage
+
+# dotnet SDK
+.dotnet/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows crash dumps
+*.dmp
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Database files
+*.dbmdl
+*.dbproj.schemaview
+
+# Node.js
+node_modules/
+
+# TypeScript
+npm-debug.log*
+
+# Web files
+dist/
+out/
+lib/
+build/
+temp/
+
+# C++ output folders
+[Bb]uild/
+[Bb]uild[Ll]ogs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Backup files
+*.bak
+*.swp
+
+# JetBrains Rider
+.idea/
